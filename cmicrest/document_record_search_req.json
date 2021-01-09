@@ -1,0 +1,11 @@
+{
+	"batchId": "02563062703",
+	"settleFromDate": "2020-06-24T17:00:00.000Z",
+	"settleToDate": "2020-06-30T17:00:00.000Z",
+	"treatmentType": [],
+	"providerCode": "1001390001",
+	"isEdi": false,
+	"isStp": false,
+	"isLifePa": false,
+	"isCs": false
+}
