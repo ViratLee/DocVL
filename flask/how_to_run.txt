@@ -1,9 +1,0 @@
-PS D:\Apps-cas\WinPython-3.6.3.0Qt5\notebooks\flask> $env:FLASK_APP = "rest_01.py"
-PS D:\Apps-cas\WinPython-3.6.3.0Qt5\notebooks\flask>set FLASK_APP=rest_01.py
-PS D:\Apps-cas\WinPython-3.6.3.0Qt5\notebooks\flask>python -m flask run
- * Serving Flask app "rest_01"
- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-127.0.0.1 - - [08/Jan/2019 17:36:10] "GET / HTTP/1.1" 200 -
-127.0.0.1 - - [08/Jan/2019 17:36:10] "GET /favicon.ico HTTP/1.1" 404 -
-
-set FLASK_APP=serv_json_01.py

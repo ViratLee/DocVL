@@ -1,8 +1,0 @@
-imperative programming,
- -  it tells the program to perform some command.
- -  change the state of the program
-declarative programming 
- - functional programming, which is a subset of the declarative programming 
- - some input, perform some action, and return a result.
- - do not modify the state of the program. 
- - input unchanged, result is always a new variable.
