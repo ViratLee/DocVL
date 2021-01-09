@@ -1,0 +1,11 @@
+// enable ////////////////
+	@Column(name = "PAYMENTDATE")
+	@Basic(fetch = FetchType.EAGER)
+	@XmlElement
+	private Date paymentDate;
+// disable, it did not save value to database///////////////
+	@Transient
+	private
+	Date paymentDate;
+	
+	google.com/map/timeline:pb

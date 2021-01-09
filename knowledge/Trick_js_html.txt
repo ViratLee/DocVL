@@ -1,0 +1,7 @@
+Logging objects
+Don't use console.log(obj), use console.log(JSON.parse(JSON.stringify(obj))).
+
+var a = document.createElement("a");
+a.href = "/CMiC/web/copyClaimDeduct/" + deductId;
+document.body.appendChild(a);
+a.click();
