@@ -1,0 +1,52 @@
+local:
+    user.auth: Basic
+    user.password: bWNsbTAyMjptY2xtMDIy
+    cmic.web.path: http://localhost:8080
+    webservices.rest.url: http://localhost:8080
+    output.path: D:\\rest_response\\local\\
+    #webservices.360.url=http://thadculwce01:19080
+    webservices.360.url: http://thadculwce02:19080
+    #webservices.360.url=http://thadcdlwce02:19080
+    webservices.360.user.auth: Basic
+    webservices.360.user.password: bWNsbTAyMjptY2xtMDIy
+
+uat:
+    user.auth: Basic
+    user.password: QkFQUEVTQjpLbjR5SWFnQEtx
+    webservices.rest.url: http://thesb-uat.aia.biz:5455
+    #webservices.rest.url: http://thadculwmi01:5455
+    #webservices.rest.url: https://thesb-uat.aia.biz:5456
+    #webservices.rest.url: https://thesb-uat.aia.biz:5456
+    
+    output.path: D:\\rest_response\\uat\\
+    webservices.360.url: http://thadculwce01:19080
+    webservices.360.user.auth: Basic
+    webservices.360.user.password: bWNsbTAyMjptY2xtMDIy
+    user: bclm022
+    password: bclm022
+
+prod:
+    user.auth: Basic
+    user.password: QkFQUEVTQjp3eXYkUEUwcHJI
+    webservices.rest.url: https://thesb.aia.biz:5656
+    webservices.rest.url.01: https://thadcplwmi01:5656
+    #webservices.rest.url: https://thadcplwmi01:5656
+    webservices.rest.url.02: https://thadcplwmi02:5656
+    webservices.rest.url.03: https://thawnplwmi030:5656
+    webservices.rest.url.04: https://thawnplwmi040:5656
+    output.path: D:\\rest_response\\prod\\
+    webservices.360.url: https://thcmicflow.aia.biz
+    webservices.360.user.auth: Basic
+    webservices.360.user.password: YmNsbTAyMjpiY2xtMDIy
+
+sit:
+    user.auth: Basic
+    user.password: QkFQUEVTQjpLbjR5SWFnQEtx
+    #webservices.rest.url: http://thadcdlwmi01:5255
+    webservices.rest.url: https://thadcslwmi01:5356
+    output.path: D:\\rest_response\\sit\\
+    webservices.360.url: http://thadcdlwce01:19080/sonora/cmicrest/
+    webservices.360.user.auth: Basic
+    webservices.360.user.password: bWNsbTAyMjptY2xtMDIy
+    user: bclm022
+    password: bclm022
