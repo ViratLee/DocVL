@@ -1,0 +1,17 @@
+{
+  "companyId" : "051",
+  "claimNo" : "",
+  "policyNo" : "P093502984",
+  "providerCode" : "1001280001",
+  "partyId" : "386425486",
+  "incidentDate" : "2020-02-28",
+  "icd10Code" : "W27.99",
+  "amount" : "",
+  "treatmentType" : "4",
+  "causeOfTreatment" : "A",
+  "billingItems" : [ {
+    "serviceCatId" : "1.1.1(3)",
+    "presentedAmt" : "2295"
+  } ],
+  "gender" : "2"
+}

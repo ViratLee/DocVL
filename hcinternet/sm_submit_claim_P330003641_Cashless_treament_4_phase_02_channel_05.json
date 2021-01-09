@@ -1,0 +1,60 @@
+{
+  "userId" : "bclm998",
+  "claimsSubmission" : {
+    "nextAction" : "close",
+    "partyId" : "403209015",
+    "phase" : "02",
+    "channel":"05",
+    "submissionType" : "Cashless",
+    "policyNo" : "P330003641",
+    "originalBillInd" : "Y",
+    "noOriginalBillInd" : "Y",
+    "agentCodeServicing" : "000000",
+    "paymentMethod" : "4",
+    "payeeIsCompanyInd" : "U",
+    "paymentSeq" : "CS",
+    "providerCode" : "1001010001",
+    "billingItems" : [ {
+      "netAmt" : "800.00",
+      "presentedAmt" : "800.00",
+      "serviceCatId" : {
+        "key" : "1.1.1(3)"
+      }
+    }, {
+      "netAmt" : "0",
+      "presentedAmt" : "0",
+      "serviceCatId" : {
+        "key" : "1.2.1(1)"
+      }
+    }, {
+      "netAmt" : "0",
+      "presentedAmt" : "0",
+      "serviceCatId" : {
+        "key" : "1.1.4"
+      }
+    }, {
+      "netAmt" : "0",
+      "presentedAmt" : "0",
+      "serviceCatId" : {
+        "key" : "1.1.5"
+      }
+    } ],
+    "totalEstimatedCost" : "800.00",
+    "totalBilledAmt" : "800.00",
+    "treatmentType" : "4",
+    "causeOfTreatment" : "A",
+    "consultationDt" : "2020-11-22T00:00:00.000Z",
+    "accidentDt" : "2020-11-22T00:00:00.000Z",
+    "causeOfInjury" : "W26.99",
+    "estimatedTimeOfDiscovery" : "1",
+    "estimatedMonthOfDiscovery" : "0",
+    "injuryAreas" : [ {
+      "strValue" : "S49.9"
+    } ],
+    "diagnosisCodes" : [ {
+      "strValue" : "W26.99"
+    } ],
+    "hospitalizationDate" : "2020-11-22T00:00:00.000Z",
+    "apiInd" : "Y"
+  }
+}

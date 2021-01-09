@@ -1,0 +1,1084 @@
+{
+	"userId": "mclm022",
+	"claimsSubmission": {
+		"nextAction": "close",
+		"partyId": "386396198",
+		"phase": "01",
+		"submissionType": "Cashless",
+		"policyNo": "T206016584",
+		"originalBillInd": "Y",
+		"noOriginalBillInd": "Y",
+		"brokerCode": "",
+		"agentCodeServicing": "",
+		"paymentMethod": "4",
+		"payeeIsCompanyInd": "U",
+		"paymentSeq": "CS",
+		"fastTrackAgency": "",
+		"billDtFrom": "2020-01-13T02:34:00.000Z",
+		"billDtTo": "2020-01-20T00:00:00.000Z",
+		"providerCode": "1001280001",
+		"physicians": [],
+		"origCurrency": "",
+		"convCurrency": "",
+		"billingItems": [{
+				"claimBenefitItemId": "",
+				"netAmt": "2226",
+				"presentedAmt": "2226",
+				"presentedDiscountAmt": "0",
+				"presentedPercentage": "0",
+				"serviceCatId": {
+					"key": "1.1.1(4)",
+					"value": ""
+				},
+				"serviceItemDesc": "1.1.1(4)"
+			}, {
+				"claimBenefitItemId": "",
+				"netAmt": "5797",
+				"presentedAmt": "5797",
+				"presentedDiscountAmt": "0",
+				"presentedPercentage": "0",
+				"serviceCatId": {
+					"key": "1.1.1(1)",
+					"value": ""
+				},
+				"serviceItemDesc": "1.1.1(1)"
+			}, {
+				"claimBenefitItemId": "",
+				"netAmt": "625",
+				"presentedAmt": "625",
+				"presentedDiscountAmt": "0",
+				"presentedPercentage": "0",
+				"serviceCatId": {
+					"key": "1.1.1(2)",
+					"value": ""
+				},
+				"serviceItemDesc": "1.1.1(2)"
+			}, {
+				"claimBenefitItemId": "",
+				"netAmt": "1984",
+				"presentedAmt": "1984",
+				"presentedDiscountAmt": "0",
+				"presentedPercentage": "0",
+				"serviceCatId": {
+					"key": "1.1.2(1)",
+					"value": ""
+				},
+				"serviceItemDesc": "1.1.2(1)"
+			}, {
+				"claimBenefitItemId": "",
+				"netAmt": "69",
+				"presentedAmt": "69",
+				"presentedDiscountAmt": "0",
+				"presentedPercentage": "0",
+				"serviceCatId": {
+					"key": "1.1.2(2)",
+					"value": ""
+				},
+				"serviceItemDesc": "1.1.2(2)"
+			}, {
+				"claimBenefitItemId": "",
+				"netAmt": "3370",
+				"presentedAmt": "3370",
+				"presentedDiscountAmt": "0",
+				"presentedPercentage": "0",
+				"serviceCatId": {
+					"key": "1.1.4",
+					"value": ""
+				},
+				"serviceItemDesc": "1.1.4"
+			}, {
+				"claimBenefitItemId": "",
+				"netAmt": "1570",
+				"presentedAmt": "1570",
+				"presentedDiscountAmt": "0",
+				"presentedPercentage": "0",
+				"serviceCatId": {
+					"key": "1.1.7(1.1)",
+					"value": ""
+				},
+				"serviceItemDesc": "1.1.7(1.1)"
+			}, {
+				"claimBenefitItemId": "",
+				"netAmt": "5400",
+				"presentedAmt": "5400",
+				"presentedDiscountAmt": "0",
+				"presentedPercentage": "0",
+				"serviceCatId": {
+					"key": "1.1.12(1)",
+					"value": ""
+				},
+				"serviceItemDesc": "1.1.12(1)"
+			}, {
+				"claimBenefitItemId": "",
+				"netAmt": "2100",
+				"presentedAmt": "2100",
+				"presentedDiscountAmt": "0",
+				"presentedPercentage": "0",
+				"serviceCatId": {
+					"key": "1.1.14(2.1)",
+					"value": ""
+				},
+				"serviceItemDesc": "1.1.14(2.1)"
+			}, {
+				"claimBenefitItemId": "",
+				"netAmt": "2100",
+				"presentedAmt": "2100",
+				"presentedDiscountAmt": "0",
+				"presentedPercentage": "0",
+				"serviceCatId": {
+					"key": "1.2.1(5)",
+					"value": ""
+				},
+				"serviceItemDesc": "1.2.1(5)"
+			}, {
+				"claimBenefitItemId": "",
+				"netAmt": "2990",
+				"presentedAmt": "2990",
+				"presentedDiscountAmt": "0",
+				"presentedPercentage": "0",
+				"serviceCatId": {
+					"key": "1.2.1(10)",
+					"value": ""
+				},
+				"serviceItemDesc": "1.2.1(10)"
+			}, {
+				"claimBenefitItemId": "",
+				"netAmt": "7830",
+				"presentedAmt": "7830",
+				"presentedDiscountAmt": "0",
+				"presentedPercentage": "0",
+				"serviceCatId": {
+					"key": "2.1.1",
+					"value": ""
+				},
+				"serviceItemDesc": "2.1.1"
+			}, {
+				"claimBenefitItemId": "",
+				"netAmt": "1420",
+				"presentedAmt": "1420",
+				"presentedDiscountAmt": "0",
+				"presentedPercentage": "0",
+				"serviceCatId": {
+					"key": "2.3.1(1)",
+					"value": ""
+				},
+				"serviceItemDesc": "2.3.1(1)"
+			}
+		],
+		"totalEstimatedCost": "1",
+		"totalBilledAmt": "37481",
+		"treatmentType": "1",
+		"causeOfTreatment": "L",
+		"consultationDt": "2020-01-13T00:00:00.000Z",
+		"accidentDt": "2020-01-21T00:00:00.000Z",
+		"accidentPlace": "",
+		"levelOfConsciousness": "",
+		"causeOfInjury": "Y04.99",
+		"injuryType": "",
+		"estimatedTimeOfDiscovery": "",
+		"estimatedMonthOfDiscovery": "",
+		"temperature": "38.5",
+		"pulse": "96",
+		"systolic": "119",
+		"diastolic": "69",
+		"respiratoryRate": "20",
+		"painScore": "0",
+		"weight": "80",
+		"height": "175",
+		"presentIllness": "",
+		"physicalFinding": "",
+		"chiefComplaint": "AGE คลื่นใส้อาเจียน",
+		"underlyingCause": "",
+		"illnessSpecialCondition": "",
+		"symptomDate": "",
+		"firstConsultationDt": "2020-01-13T00:00:00.000Z",
+		"prevTreatmentDate": "",
+		"prevDoctorName": "",
+		"prevDoctorEmail": "",
+		"prevlDoctorPhone": "",
+		"prevDoctorFax": "",
+		"referralDoctorName": "",
+		"referralDoctorEmail": "",
+		"referralDoctorPhone": "",
+		"referralDoctorFax": "",
+		"diagnosisResult": "",
+		"provisionalDiagnosis": "",
+		"conditionRequiredTreatment": "",
+		"treatmentDate": "2020-01-13T00:00:00.000Z",
+		"diagnosisCodes": [{
+				"strValue": "R69. "
+			}
+		],
+		"hospitalizationDate": "2020-01-13T02:34:00.000Z",
+		"dischargeDate": "2020-01-20T00:00:00.000Z",
+		"icuAdmissionDate": "",
+		"icuDischargeDate": "",
+		"lengthOfStay": "7",
+		"icuLengthOfStay": "",
+		"icuReason": "",
+		"otherInsurer": "",
+		"homeLeaveFromDate": "",
+		"homeLeaveToDt": "",
+		"homeLeaveReason": "",
+		"dayOfAdmitRoom": "7",
+		"dayOfAdmitIcu": "",
+		"dayOfCall": "",
+		"totalDisability": "",
+		"partialDisability": "",
+		"disabilityStartDt": "",
+		"disabilityEndDt": "",
+		"doubleIndemnity": "",
+		"aiCode": "",
+		"hbpType": "",
+		"diseaseInd": "",
+		"hbjSurgeryInd": "",
+		"anesthesiaInd": "",
+		"majorInjuryDetail": "",
+		"hn": "256301328",
+		"an": "202000559",
+		"ediBillings": [{
+				"localBillingCode": "1.1.1",
+				"simbBillingCode": "1.1.1(4)",
+				"aiaBillingCode": "1.1.1(4)",
+				"billingInitial": 2226,
+				"billingDiscount": 0,
+				"billingNetAmount": 2226,
+				"localBillingName": "ค่ายาและสารอาหารทางหลอดเลือด"
+			}, {
+				"localBillingCode": "1.1.1(1)",
+				"simbBillingCode": "1.1.1(1)",
+				"aiaBillingCode": "1.1.1(1)",
+				"billingInitial": 6441,
+				"billingDiscount": 644,
+				"billingNetAmount": 5797,
+				"localBillingName": "ยาผู้ป่วยใน (Inpatient Medication)"
+			}, {
+				"localBillingCode": "1.1.1(2)",
+				"simbBillingCode": "1.1.1(2)",
+				"aiaBillingCode": "1.1.1(2)",
+				"billingInitial": 694,
+				"billingDiscount": 69,
+				"billingNetAmount": 625,
+				"localBillingName": "ยากลับบ้าน (Home Medication)"
+			}, {
+				"localBillingCode": "1.1.2(1)",
+				"simbBillingCode": "1.1.2(1)",
+				"aiaBillingCode": "1.1.2(1)",
+				"billingInitial": 1984,
+				"billingDiscount": 0,
+				"billingNetAmount": 1984,
+				"localBillingName": "เวชภัณฑ์ 1 (Medical Supplies 1)"
+			}, {
+				"localBillingCode": "1.1.2(2)",
+				"simbBillingCode": "1.1.2(2)",
+				"aiaBillingCode": "1.1.2(2)",
+				"billingInitial": 69,
+				"billingDiscount": 0,
+				"billingNetAmount": 69,
+				"localBillingName": "เวชภัณฑ์ 2 (Medical Supplies 2)"
+			}, {
+				"localBillingCode": "1.1.4(1)",
+				"simbBillingCode": "1.1.4",
+				"aiaBillingCode": "1.1.4",
+				"billingInitial": 3370,
+				"billingDiscount": 0,
+				"billingNetAmount": 3370,
+				"localBillingName": "ค่าตรวจวินิจฉัยทางเทคนิคการแพทย์และพยาธิวิทยา (Laboratory Investigation and Pathology)"
+			}, {
+				"localBillingCode": "1.1.7(1)",
+				"aiaBillingCode": "1.1.7(1.1)",
+				"billingInitial": 1570,
+				"billingDiscount": 0,
+				"billingNetAmount": 1570
+			}, {
+				"localBillingCode": "1.1.12",
+				"simbBillingCode": "1.1.12",
+				"aiaBillingCode": "1.1.12(1)",
+				"billingInitial": 5400,
+				"billingDiscount": 0,
+				"billingNetAmount": 5400,
+				"localBillingName": "ค่าบริการการพยาบาลของผู้ประกอบวิชาชีพการพยาบาลและการผดุงครรภ์ (Nursing and Midwifery Charge)"
+			}, {
+				"localBillingCode": "1.1.14(2)",
+				"simbBillingCode": "1.1.14(2)",
+				"aiaBillingCode": "1.1.14(2.1)",
+				"billingInitial": 2100,
+				"billingDiscount": 0,
+				"billingNetAmount": 2100,
+				"localBillingName": "ค่าบริการทางการแพทย์อื่น ๆ (Other Medical Charges)"
+			}, {
+				"localBillingCode": "1.2.1(5)",
+				"simbBillingCode": "1.2.1(5)",
+				"aiaBillingCode": "1.2.1(5)",
+				"billingInitial": 2100,
+				"billingDiscount": 0,
+				"billingNetAmount": 2100,
+				"localBillingName": "ตรวจรักษากรณีผู้ป่วยใน ครั้งแรกสำหรับการรับตัวครั้งนั้น (Initial Inpatient Evaluation and Management)"
+			}, {
+				"localBillingCode": "1.2.1(10)",
+				"simbBillingCode": "1.2.1(10)",
+				"aiaBillingCode": "1.2.1(10)",
+				"billingInitial": 2990,
+				"billingDiscount": 0,
+				"billingNetAmount": 2990,
+				"localBillingName": "ค่าตรวจรักษากรณีผู้ป่วยในอย่างสั้น (Brief Inpatient Care)"
+			}, {
+				"localBillingCode": "2.1",
+				"simbBillingCode": "2.1",
+				"aiaBillingCode": "2.1.1",
+				"billingInitial": 8700,
+				"billingDiscount": 870,
+				"billingNetAmount": 7830,
+				"localBillingName": "ค่าห้องหรือค่าเตียงผู้ป่วยใน (Standard Inpatient Accommodation)"
+			}, {
+				"localBillingCode": "2.3.1",
+				"simbBillingCode": "2.3.1",
+				"aiaBillingCode": "2.3.1(1)",
+				"billingInitial": 1420,
+				"billingDiscount": 0,
+				"billingNetAmount": 1420,
+				"localBillingName": "ค่าอาหารผู้ป่วยในปกติ (Standard Inpatient Foods)"
+			}
+		],
+		"ediOrderItems": [{
+				"itemId": "01220",
+				"itemName": "ค่าให้สารละลายทางหลอดเลือด IPD",
+				"itemLocalBillingCode": "1.1.1 ค่ายาและสารอาหารทางหลอดเลือด",
+				"itemAmount": "1.0",
+				"initial": 505.0,
+				"discount": 0.0,
+				"netAmount": 505
+			}, {
+				"itemId": "01220",
+				"itemName": "ค่าให้สารละลายทางหลอดเลือด IPD",
+				"itemLocalBillingCode": "1.1.1 ค่ายาและสารอาหารทางหลอดเลือด",
+				"itemAmount": "1.0",
+				"initial": 608.0,
+				"discount": 0.0,
+				"netAmount": 608
+			}, {
+				"itemId": "01220",
+				"itemName": "ค่าให้สารละลายทางหลอดเลือด IPD",
+				"itemLocalBillingCode": "1.1.1 ค่ายาและสารอาหารทางหลอดเลือด",
+				"itemAmount": "1.0",
+				"initial": 608.0,
+				"discount": 0.0,
+				"netAmount": 608
+			}, {
+				"itemId": "01220",
+				"itemName": "ค่าให้สารละลายทางหลอดเลือด IPD",
+				"itemLocalBillingCode": "1.1.1 ค่ายาและสารอาหารทางหลอดเลือด",
+				"itemAmount": "1.0",
+				"initial": 505.0,
+				"discount": 0.0,
+				"netAmount": 505
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "10.0",
+				"initial": 38.0,
+				"discount": 3.8,
+				"netAmount": 34.2
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "5.0",
+				"initial": 95.0,
+				"discount": 9.5,
+				"netAmount": 85.5
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "2.0",
+				"initial": 29.0,
+				"discount": 2.9,
+				"netAmount": 26.1
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "2.0",
+				"initial": 1742.0,
+				"discount": 174.2,
+				"netAmount": 1567.8
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "2.0",
+				"initial": 8.0,
+				"discount": 0.8,
+				"netAmount": 7.2
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "1.0",
+				"initial": 215.0,
+				"discount": 21.5,
+				"netAmount": 193.5
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "4.0",
+				"initial": 229.0,
+				"discount": 22.9,
+				"netAmount": 206.1
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "5.0",
+				"initial": 46.0,
+				"discount": 4.6,
+				"netAmount": 41.4
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "3.0",
+				"initial": 44.0,
+				"discount": 4.4,
+				"netAmount": 39.6
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "2.0",
+				"initial": 1742.0,
+				"discount": 174.2,
+				"netAmount": 1567.8
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "1.0",
+				"initial": 215.0,
+				"discount": 21.5,
+				"netAmount": 193.5
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "4.0",
+				"initial": 17.0,
+				"discount": 1.7,
+				"netAmount": 15.3
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "3.0",
+				"initial": 44.0,
+				"discount": 4.4,
+				"netAmount": 39.6
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "2.0",
+				"initial": 1742.0,
+				"discount": 174.1,
+				"netAmount": 1567.9
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "3.0",
+				"initial": 172.0,
+				"discount": 17.2,
+				"netAmount": 154.8
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "3.0",
+				"initial": 28.0,
+				"discount": 2.8,
+				"netAmount": 25.2
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "10.0",
+				"initial": 571.0,
+				"discount": 57.1,
+				"netAmount": 513.9
+			}, {
+				"itemId": "01029",
+				"itemName": "คืนยาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "2.0",
+				"initial": 115.0,
+				"discount": 11.5,
+				"netAmount": 103.5
+			}, {
+				"itemId": "01020",
+				"itemName": "ค่ายาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "1.0",
+				"initial": 215.0,
+				"discount": 21.5,
+				"netAmount": 193.5
+			}, {
+				"itemId": "01029",
+				"itemName": "คืนยาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "9.0",
+				"initial": 35.0,
+				"discount": 3.5,
+				"netAmount": 31.5
+			}, {
+				"itemId": "01029",
+				"itemName": "คืนยาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "1.0",
+				"initial": 15.0,
+				"discount": 1.5,
+				"netAmount": 13.5
+			}, {
+				"itemId": "01029",
+				"itemName": "คืนยาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "10.0",
+				"initial": 571.0,
+				"discount": 57.1,
+				"netAmount": 513.9
+			}, {
+				"itemId": "01029",
+				"itemName": "คืนยาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "1.0",
+				"initial": 10.0,
+				"discount": 1.0,
+				"netAmount": 9
+			}, {
+				"itemId": "01029",
+				"itemName": "คืนยาผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.1(1) ยาผู้ป่วยใน",
+				"itemAmount": "1.0",
+				"initial": 5.0,
+				"discount": 0.5,
+				"netAmount": 4.5
+			}, {
+				"itemId": "01030",
+				"itemName": "ค่ายาผู้ป่วยกลับบ้าน",
+				"itemLocalBillingCode": "1.1.1(2) ยาผู้ป่วยกลับบ้าน",
+				"itemAmount": "12.0",
+				"initial": 316.0,
+				"discount": 31.2,
+				"netAmount": 284.8
+			}, {
+				"itemId": "01030",
+				"itemName": "ค่ายาผู้ป่วยกลับบ้าน",
+				"itemLocalBillingCode": "1.1.1(2) ยาผู้ป่วยกลับบ้าน",
+				"itemAmount": "8.0",
+				"initial": 57.0,
+				"discount": 5.7,
+				"netAmount": 51.3
+			}, {
+				"itemId": "01030",
+				"itemName": "ค่ายาผู้ป่วยกลับบ้าน",
+				"itemLocalBillingCode": "1.1.1(2) ยาผู้ป่วยกลับบ้าน",
+				"itemAmount": "10.0",
+				"initial": 112.0,
+				"discount": 11.2,
+				"netAmount": 100.8
+			}, {
+				"itemId": "01030",
+				"itemName": "ค่ายาผู้ป่วยกลับบ้าน",
+				"itemLocalBillingCode": "1.1.1(2) ยาผู้ป่วยกลับบ้าน",
+				"itemAmount": "4.0",
+				"initial": 176.0,
+				"discount": 17.6,
+				"netAmount": 158.4
+			}, {
+				"itemId": "01030",
+				"itemName": "ค่ายาผู้ป่วยกลับบ้าน",
+				"itemLocalBillingCode": "1.1.1(2) ยาผู้ป่วยกลับบ้าน",
+				"itemAmount": "10.0",
+				"initial": 33.0,
+				"discount": 3.3,
+				"netAmount": 29.7
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "1.0",
+				"initial": 4.0,
+				"discount": 0.0,
+				"netAmount": 4
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "1.0",
+				"initial": 14.0,
+				"discount": 0.0,
+				"netAmount": 14
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "1.0",
+				"initial": 10.0,
+				"discount": 0.0,
+				"netAmount": 10
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "2.0",
+				"initial": 944.0,
+				"discount": 0.0,
+				"netAmount": 944
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "1.0",
+				"initial": 99.0,
+				"discount": 0.0,
+				"netAmount": 99
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "1.0",
+				"initial": 127.0,
+				"discount": 0.0,
+				"netAmount": 127
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "2.0",
+				"initial": 28.0,
+				"discount": 0.0,
+				"netAmount": 28
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "1.0",
+				"initial": 97.0,
+				"discount": 0.0,
+				"netAmount": 97
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "1.0",
+				"initial": 168.0,
+				"discount": 0.0,
+				"netAmount": 168
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "1.0",
+				"initial": 16.0,
+				"discount": 0.0,
+				"netAmount": 16
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "2.0",
+				"initial": 74.0,
+				"discount": 0.0,
+				"netAmount": 74
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "2.0",
+				"initial": 22.0,
+				"discount": 0.0,
+				"netAmount": 22
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "1.0",
+				"initial": 65.0,
+				"discount": 0.0,
+				"netAmount": 65
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "1.0",
+				"initial": 26.0,
+				"discount": 0.0,
+				"netAmount": 26
+			}, {
+				"itemId": "721050",
+				"itemName": "เทอร์มอมิเตอร์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "1.0",
+				"initial": 150.0,
+				"discount": 0.0,
+				"netAmount": 150
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "0.0",
+				"initial": 0.0,
+				"discount": 0.0,
+				"netAmount": 0
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "1.0",
+				"initial": 14.0,
+				"discount": 0.0,
+				"netAmount": 14
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "2.0",
+				"initial": 32.0,
+				"discount": 0.0,
+				"netAmount": 32
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "0.0",
+				"initial": 0.0,
+				"discount": 0.0,
+				"netAmount": 0
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "1.0",
+				"initial": 14.0,
+				"discount": 0.0,
+				"netAmount": 14
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "4.0",
+				"initial": 64.0,
+				"discount": 0.0,
+				"netAmount": 64
+			}, {
+				"itemId": "02010",
+				"itemName": "ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemLocalBillingCode": "1.1.2(1) ค่าวัสดุสิ้นเปลืองทางการแพทย์",
+				"itemAmount": "1.0",
+				"initial": 16.0,
+				"discount": 0.0,
+				"netAmount": 16
+			}, {
+				"itemId": "02020",
+				"itemName": "ค่าอุปกรณ์ทางการแพทย์ใช้นอกตัวผู้ป่วย",
+				"itemLocalBillingCode": "1.1.2(2) ค่าอุปกรณ์ทางการแพทย์ใช้นอกตัวผู้ป่วย",
+				"itemAmount": "1.0",
+				"initial": 69.0,
+				"discount": 0.0,
+				"netAmount": 69
+			}, {
+				"itemId": "60001",
+				"itemName": "CULTURE BACTERIA",
+				"itemLocalBillingCode": "1.1.4(1) ค่าตรวจวินิจฉัยทางเทคนิคการแพทย์และพยาธิวิทยา",
+				"itemAmount": "1.0",
+				"initial": 1000.0,
+				"discount": 0.0,
+				"netAmount": 1000
+			}, {
+				"itemId": "10002",
+				"itemName": "BUN",
+				"itemLocalBillingCode": "1.1.4(1) ค่าตรวจวินิจฉัยทางเทคนิคการแพทย์และพยาธิวิทยา",
+				"itemAmount": "1.0",
+				"initial": 170.0,
+				"discount": 0.0,
+				"netAmount": 170
+			}, {
+				"itemId": "10003",
+				"itemName": "CREATININE",
+				"itemLocalBillingCode": "1.1.4(1) ค่าตรวจวินิจฉัยทางเทคนิคการแพทย์และพยาธิวิทยา",
+				"itemAmount": "1.0",
+				"initial": 190.0,
+				"discount": 0.0,
+				"netAmount": 190
+			}, {
+				"itemId": "10023",
+				"itemName": "ELECTROLYTE (Na,K,Cl,CO2)",
+				"itemLocalBillingCode": "1.1.4(1) ค่าตรวจวินิจฉัยทางเทคนิคการแพทย์และพยาธิวิทยา",
+				"itemAmount": "1.0",
+				"initial": 770.0,
+				"discount": 0.0,
+				"netAmount": 770
+			}, {
+				"itemId": "60001",
+				"itemName": "CULTURE BACTERIA",
+				"itemLocalBillingCode": "1.1.4(1) ค่าตรวจวินิจฉัยทางเทคนิคการแพทย์และพยาธิวิทยา",
+				"itemAmount": "1.0",
+				"initial": 1000.0,
+				"discount": 0.0,
+				"netAmount": 1000
+			}, {
+				"itemId": "20001",
+				"itemName": "CBC",
+				"itemLocalBillingCode": "1.1.4(1) ค่าตรวจวินิจฉัยทางเทคนิคการแพทย์และพยาธิวิทยา",
+				"itemAmount": "1.0",
+				"initial": 240.0,
+				"discount": 0.0,
+				"netAmount": 240
+			}, {
+				"itemId": "711116",
+				"itemName": "INFUSION PUMP  (น้ำเกลือ 24 ชม.).",
+				"itemLocalBillingCode": "1.1.7(1) อุปกรณ์ของใช้และเครื่องมือที่ใช้นอกห้องผ่าตัด",
+				"itemAmount": "1.0",
+				"initial": 600.0,
+				"discount": 0.0,
+				"netAmount": 600
+			}, {
+				"itemId": "711145",
+				"itemName": "OXYMETER2 (ครั้ง)",
+				"itemLocalBillingCode": "1.1.7(1) อุปกรณ์ของใช้และเครื่องมือที่ใช้นอกห้องผ่าตัด",
+				"itemAmount": "1.0",
+				"initial": 70.0,
+				"discount": 0.0,
+				"netAmount": 70
+			}, {
+				"itemId": "711116",
+				"itemName": "INFUSION PUMP  (น้ำเกลือ 24 ชม.).",
+				"itemLocalBillingCode": "1.1.7(1) อุปกรณ์ของใช้และเครื่องมือที่ใช้นอกห้องผ่าตัด",
+				"itemAmount": "1.0",
+				"initial": 600.0,
+				"discount": 0.0,
+				"netAmount": 600
+			}, {
+				"itemId": "711115",
+				"itemName": "INFUSION PUMP  (น้ำเกลือไม่เกิน12ชม.).",
+				"itemLocalBillingCode": "1.1.7(1) อุปกรณ์ของใช้และเครื่องมือที่ใช้นอกห้องผ่าตัด",
+				"itemAmount": "1.0",
+				"initial": 300.0,
+				"discount": 0.0,
+				"netAmount": 300
+			}, {
+				"itemId": "12020",
+				"itemName": "ค่าบริการการพยาบาลผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.12 ค่าบริการการพยาบาล",
+				"itemAmount": "1.0",
+				"initial": 1800.0,
+				"discount": 0.0,
+				"netAmount": 1800
+			}, {
+				"itemId": "12020",
+				"itemName": "ค่าบริการการพยาบาลผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.12 ค่าบริการการพยาบาล",
+				"itemAmount": "1.0",
+				"initial": 1800.0,
+				"discount": 0.0,
+				"netAmount": 1800
+			}, {
+				"itemId": "120200",
+				"itemName": "ค่าบริการการพยาบาลผู้ป่วยใน",
+				"itemLocalBillingCode": "1.1.12 ค่าบริการการพยาบาล",
+				"itemAmount": "1.0",
+				"initial": 1800.0,
+				"discount": 0.0,
+				"netAmount": 1800
+			}, {
+				"itemId": "26090",
+				"itemName": "ค่าบริการโรงพยาบาลรายวัน",
+				"itemLocalBillingCode": "1.1.14(2) ค่าบริการทางการแพทย์อื่น ๆ",
+				"itemAmount": "1.0",
+				"initial": 700.0,
+				"discount": 0.0,
+				"netAmount": 700
+			}, {
+				"itemId": "26090",
+				"itemName": "ค่าบริการโรงพยาบาลรายวัน",
+				"itemLocalBillingCode": "1.1.14(2) ค่าบริการทางการแพทย์อื่น ๆ",
+				"itemAmount": "1.0",
+				"initial": 700.0,
+				"discount": 0.0,
+				"netAmount": 700
+			}, {
+				"itemId": "260909",
+				"itemName": "ค่าบริการโรงพยาบาลรายวัน",
+				"itemLocalBillingCode": "1.1.14(2) ค่าบริการทางการแพทย์อื่น ๆ",
+				"itemAmount": "1.0",
+				"initial": 700.0,
+				"discount": 0.0,
+				"netAmount": 700
+			}, {
+				"itemId": "DFEER",
+				"itemName": "แพทย์ ER รับ ADMIT",
+				"itemLocalBillingCode": "1.2.1(5) ตรวจรักษาผู้ป่วยในครั้งแรกสำหรับการรับตัวครั้งนั้น",
+				"itemAmount": "1.0",
+				"initial": 1400.0,
+				"discount": 0.0,
+				"netAmount": 1400
+			}, {
+				"itemId": "DF001",
+				"itemName": "ค่าตรวจรักษากรณีผู้ป่วยใน ครั้งแรก สำหรับการรับตัวครั้งนั้น",
+				"itemLocalBillingCode": "1.2.1(5) ตรวจรักษาผู้ป่วยในครั้งแรกสำหรับการรับตัวครั้งนั้น",
+				"itemAmount": "1.0",
+				"initial": 700.0,
+				"discount": 0.0,
+				"netAmount": 700
+			}, {
+				"itemId": "DF004",
+				"itemName": "ค่าตรวจรักษากรณีผู้ป่วยใน",
+				"itemLocalBillingCode": "1.2.1(10) ตรวจรักษาผู้ป่วยใน",
+				"itemAmount": "1.0",
+				"initial": 1150.0,
+				"discount": 0.0,
+				"netAmount": 1150
+			}, {
+				"itemId": "DF004",
+				"itemName": "ค่าตรวจรักษากรณีผู้ป่วยใน",
+				"itemLocalBillingCode": "1.2.1(10) ตรวจรักษาผู้ป่วยใน",
+				"itemAmount": "1.0",
+				"initial": 920.0,
+				"discount": 0.0,
+				"netAmount": 920
+			}, {
+				"itemId": "DF004",
+				"itemName": "ค่าตรวจรักษากรณีผู้ป่วยใน",
+				"itemLocalBillingCode": "1.2.1(10) ตรวจรักษาผู้ป่วยใน",
+				"itemAmount": "1.0",
+				"initial": 920.0,
+				"discount": 0.0,
+				"netAmount": 920
+			}, {
+				"itemId": "21110",
+				"itemName": "ค่าห้องพักผู้ป่วย",
+				"itemLocalBillingCode": "2.1 ค่าห้องหรือค่าเตียงผู้ป่วยใน ประเภทต่าง ๆ",
+				"itemAmount": "1.0",
+				"initial": 2900.0,
+				"discount": 290.0,
+				"netAmount": 2610
+			}, {
+				"itemId": "21110",
+				"itemName": "ค่าห้องพักผู้ป่วย",
+				"itemLocalBillingCode": "2.1 ค่าห้องหรือค่าเตียงผู้ป่วยใน ประเภทต่าง ๆ",
+				"itemAmount": "1.0",
+				"initial": 2900.0,
+				"discount": 290.0,
+				"netAmount": 2610
+			}, {
+				"itemId": "211100",
+				"itemName": "ค่าห้องพักผู้ป่วย (ADMIT)",
+				"itemLocalBillingCode": "2.1 ค่าห้องหรือค่าเตียงผู้ป่วยใน ประเภทต่าง ๆ",
+				"itemAmount": "1.0",
+				"initial": 2900.0,
+				"discount": 290.0,
+				"netAmount": 2610
+			}, {
+				"itemId": "23110",
+				"itemName": "ค่าอาหารผู้ป่วย",
+				"itemLocalBillingCode": "2.3.1 อาหารผู้ป่วยในปกติ",
+				"itemAmount": "1.0",
+				"initial": 180.0,
+				"discount": 0.0,
+				"netAmount": 180
+			}, {
+				"itemId": "23110",
+				"itemName": "ค่าอาหารผู้ป่วย",
+				"itemLocalBillingCode": "2.3.1 อาหารผู้ป่วยในปกติ",
+				"itemAmount": "1.0",
+				"initial": 260.0,
+				"discount": 0.0,
+				"netAmount": 260
+			}, {
+				"itemId": "23110",
+				"itemName": "ค่าอาหารผู้ป่วย",
+				"itemLocalBillingCode": "2.3.1 อาหารผู้ป่วยในปกติ",
+				"itemAmount": "1.0",
+				"initial": 180.0,
+				"discount": 0.0,
+				"netAmount": 180
+			}, {
+				"itemId": "23110",
+				"itemName": "ค่าอาหารผู้ป่วย",
+				"itemLocalBillingCode": "2.3.1 อาหารผู้ป่วยในปกติ",
+				"itemAmount": "1.0",
+				"initial": 180.0,
+				"discount": 0.0,
+				"netAmount": 180
+			}, {
+				"itemId": "23110",
+				"itemName": "ค่าอาหารผู้ป่วย",
+				"itemLocalBillingCode": "2.3.1 อาหารผู้ป่วยในปกติ",
+				"itemAmount": "1.0",
+				"initial": 260.0,
+				"discount": 0.0,
+				"netAmount": 260
+			}, {
+				"itemId": "23110",
+				"itemName": "ค่าอาหารผู้ป่วย",
+				"itemLocalBillingCode": "2.3.1 อาหารผู้ป่วยในปกติ",
+				"itemAmount": "1.0",
+				"initial": 180.0,
+				"discount": 0.0,
+				"netAmount": 180
+			}, {
+				"itemId": "23110",
+				"itemName": "ค่าอาหารผู้ป่วย",
+				"itemLocalBillingCode": "2.3.1 อาหารผู้ป่วยในปกติ",
+				"itemAmount": "1.0",
+				"initial": 180.0,
+				"discount": 0.0,
+				"netAmount": 180
+			}
+		],
+		"ediLaboratories": [{
+				"labCode": "10002",
+				"labGroup": "10002",
+				"labName": "BUN",
+				"labResult": "14",
+				"resultDateTime": "13-01-2020 03:01:00"
+			}
+		],
+		"ediProcedures": [],
+		"ediVitalSigns": [{
+				"respiratoryRate": "20",
+				"heartRate": "96",
+				"temperature": "38.5",
+				"systolicBp": "119",
+				"diastolicBp": "69",
+				"painScore": "0.0",
+				"vitalSignEntryDateTime": "13-01-2020 02:22:00"
+			}
+		],
+		"ediDoctors": [{
+				"doctorLicense": "14442",
+				"doctorRole": "OWNER"
+			}
+		]
+	},
+	"docs": [],
+	"party": {
+		"partyId": "386396198",
+		"clientId": "002110575L",
+		"policyNo": "T206016584",
+		"memberId": "",
+		"certNo": "",
+		"dependentNo": "",
+		"firstName": "000XXXX0",
+		"lastName": "อร่XXXXศมีกุล",
+		"nationalId": "5100699062071",
+		"businessLine": "life"
+	},
+	"ipdMode": "R",
+	"key": {},
+	"hcCode": "003",
+	"logId": "890",
+	"trxCode": "16fc6b7f52a@TAIWKQD18N617"
+}

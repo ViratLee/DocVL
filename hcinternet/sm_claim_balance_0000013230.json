@@ -1,0 +1,28 @@
+{
+    "dependentNo": "2",
+    "incidentDate": "2020-01-20",
+    "partyId": "395006009",
+    "injuryArea": null,
+    "billingItems": [{
+            "serviceCatId": "1.1.1(3)",
+            "presentedDiscountAmt": null,
+            "presentedAmt": "3"
+        }
+    ],
+    "userId": "aia038",
+    "trxCode": "16fc105faae@THAIPWVWS12",
+    "treatmentType": "1",
+    "policyNo": "0000013230",
+    "icd10Code": "N80.0",
+    "membershipNo": "6962042901",
+    "hospitalizationDate": null,
+    "causeOfTreatment": "L",
+    "companyId": "051",
+    "amount": "3",
+    "certificateNo": "testcon1",
+    "subOffice": null,
+    "accidentDate": null,
+    "claimNo": "",
+    "providerCode": "1001280005",
+    "gender":"2"
+}
